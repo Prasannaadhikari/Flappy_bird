@@ -66,11 +66,11 @@
 
 .obstacleUp{
     width: 52px;
-    background-image: url('./img/pipe-green_down.png');
+    background-image: url('./img/pipe-green.png');
+    transform: rotate(180deg);
     position: absolute;
     left: 400px;
     top: 0;
-    background-size: contain;
     background-repeat: no-repeat;
 }
 
